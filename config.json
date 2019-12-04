@@ -1,0 +1,8 @@
+{
+    "aws":{
+        "account_id":"",
+        "filq_sqs":"",
+        "accessKeyId":"",
+        "secretAccessKey":""
+    }
+}
